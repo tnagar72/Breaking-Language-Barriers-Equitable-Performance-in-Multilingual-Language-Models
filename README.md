@@ -1,12 +1,12 @@
-# Bridging Language Gaps: Code-Switched Fine-Tuning for Multilingual LLMs
+# Breaking Language Barriers: Equitable Performance in Multilingual Language Models
 
-ACL Anonymous Review Repo for the paper `Bridging Language Gaps: Code-Switched Fine-Tuning for Multilingual LLMs`
+ACL Anonymous Review Repo for the paper `Breaking Language Barriers: Equitable Performance in Multilingual Language Models
 
 [GPT-3.5 Prompt Structure](GPT-3.5%20Prompt%20Structure.md) | [Requirements.txt](requirements.txt) python packages for Data Generation and Fine-Tuning | [Datasets](#Datasets) | [Data Generation](#Data%20Generation) | [Processing and Additional Functionality](###Processing%20and%20Additional%20Functionality) | [Testing and Translation scripts](#Testing%20and%20Translation%20scripts)
 ### Repo Structure:
 
 ```
-Bridging-Language-Gaps-Code-Switched-Fine-Tuning-for-Multilingual-LLMs/
+Breaking-Language-Barriers-Equitable-Performance-in-Multilingual-Language-Models/
 ├── Data Generation/                               # Folder for scripts and info related to data generation
 │   ├── All_Questions_through_GPT.py               # Script to generate all questions using GPT-based code-switching
 │   ├── CMI Dataset Info.md                        # Information about the CMI-based datasets and their properties
