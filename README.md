@@ -2,7 +2,7 @@
 
 ACL Anonymous Review Repo for the paper `Breaking Language Barriers: Equitable Performance in Multilingual Language Models
 
-[GPT-3.5 Prompt Structure](GPT-3.5%20Prompt%20Structure.md) | [Requirements.txt](requirements.txt) python packages for Data Generation and Fine-Tuning | [Datasets](#Datasets) | [Data Generation](#Data%20Generation) | [Processing and Additional Functionality](###Processing%20and%20Additional%20Functionality) | [Testing and Translation scripts](#Testing%20and%20Translation%20scripts)
+[GPT-3.5 Prompt Structure](GPT-3.5%20Prompt%20Structure.md) | [Requirements.txt](requirements.txt) | [Datasets](#Datasets) | [Data Generation](#Data%20Generation) | [Processing and Additional Functionality](###Processing%20and%20Additional%20Functionality) | [Testing and Translation scripts](#Testing%20and%20Translation%20scripts)
 ### Repo Structure:
 
 ```
